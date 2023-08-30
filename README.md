@@ -1,5 +1,7 @@
 # Rocket
 
+Programming of hardware inside an L1 rocket. Utilizing an Arduino, RF Transmitter, BMP, and GPS to gather barometric and location data.
+
 in process: 
 code to use BMP180 sensor with Arduino and an HC12 RF to collect barometric data while Rocket in flight
 
